@@ -19,4 +19,3 @@ with open('day1',mode="r") as input:
     for x in summa[-3:]:
         temp+=x
     print(temp)
-XD
